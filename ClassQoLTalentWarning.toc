@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: ClassQoL Talent Warning
+## Notes: Marks talents granted by mod-class-qol.
+## Author: theprinceofbucket
+## X-License: MIT
+## Version: 0.1.1
+
+ClassQoLTalentWarning.lua
