@@ -68,8 +68,11 @@ Der Projektbetreiber hat sich mit der ersten Ausführung im Spiel zufrieden geze
 Lokal wurden die 37 DBC-Talentkoordinaten und Klassenzuordnungen, Lua-Syntax,
 Paketstruktur und Versionskonsistenz geprüft. Der Projektbetreiber hat Deutsch
 und Englisch in 0.1.1 erfolgreich getestet: Sprache in den Spieleinstellungen
-geändert und das Spiel für jede Sprache neu gestartet. Vollständige Prüfungen aller
-Klassen, Dual Spec und Addon-Kompatibilität stehen ebenfalls aus.
+geändert und das Spiel für jede Sprache neu gestartet. Außerdem wurde jede der
+zehn Klassen einmal eingeloggt und die Talentanzeige mit **N** kontrolliert;
+die Darstellung war bei allen korrekt. Beim Todesritter wurde Dual Spec mit
+beiden Spezialisierungen erfolgreich geprüft. Dual Spec bei den übrigen Klassen
+und weitere Kompatibilitätstests stehen noch aus.
 Siehe [Testplan](docs/TESTING.md).
 
 ## Quellcode und Release-Paket

@@ -65,8 +65,11 @@ The project owner reported satisfaction with the initial in-game implementation.
 Local checks cover the 37 DBC talent coordinates and class assignments, Lua syntax,
 package structure and version consistency. The owner successfully tested German
 and English in 0.1.1 by changing the language in the game settings and restarting
-the game for each language. Comprehensive all-class, dual-spec and addon
-compatibility tests are also open. See [testing](docs/TESTING.md).
+the game for each language. The owner also logged in once on each of the ten
+classes and checked the talent display with **N**; all were displayed correctly.
+On the Death Knight, both dual-spec specializations were checked successfully.
+Dual-spec checks for the other classes and further compatibility tests remain
+open. See [testing](docs/TESTING.md).
 
 ## Source and release packaging
 

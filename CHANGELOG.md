@@ -10,6 +10,8 @@
 - Preserve the 37 talent markers and existing tooltip behavior.
 - Owner verified German and English tooltips after changing the client language
   in the game settings and restarting the game for each language.
+- Owner checked the talent display with **N** after logging in on all ten classes;
+  all displayed correctly. Death Knight dual spec passed in both specializations.
 
 ### Deutsch
 
@@ -19,6 +21,8 @@
 - Die 37 Talentmarkierungen und das bisherige Tooltip-Verhalten beibehalten.
 - Deutsch und Englisch vom Projektbetreiber getestet: Client-Sprache in den
   Spieleinstellungen geändert und das Spiel für jede Sprache neu gestartet.
+- Alle zehn Klassen jeweils eingeloggt und die Talentanzeige mit **N** erfolgreich
+  kontrolliert. Beim Todesritter Dual Spec in beiden Spezialisierungen bestanden.
 
 ## 0.1.0
 
